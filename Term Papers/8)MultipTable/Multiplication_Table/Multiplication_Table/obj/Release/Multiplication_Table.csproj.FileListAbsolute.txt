@@ -1,0 +1,6 @@
+C:\Users\angry\Desktop\Портфолио\8)Multip_Table\Multiplication_Table\Multiplication_Table\bin\Release\Multiplication_Table.exe.config
+C:\Users\angry\Desktop\Портфолио\8)Multip_Table\Multiplication_Table\Multiplication_Table\bin\Release\Multiplication_Table.exe
+C:\Users\angry\Desktop\Портфолио\8)Multip_Table\Multiplication_Table\Multiplication_Table\bin\Release\Multiplication_Table.pdb
+C:\Users\angry\Desktop\Портфолио\8)Multip_Table\Multiplication_Table\Multiplication_Table\obj\Release\Multiplication_Table.csproj.CoreCompileInputs.cache
+C:\Users\angry\Desktop\Портфолио\8)Multip_Table\Multiplication_Table\Multiplication_Table\obj\Release\Multiplication_Table.exe
+C:\Users\angry\Desktop\Портфолио\8)Multip_Table\Multiplication_Table\Multiplication_Table\obj\Release\Multiplication_Table.pdb

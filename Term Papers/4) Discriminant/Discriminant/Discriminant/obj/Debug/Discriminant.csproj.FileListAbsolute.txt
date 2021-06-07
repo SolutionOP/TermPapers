@@ -1,0 +1,7 @@
+C:\Users\angry\Desktop\Портфолио\4) Discriminant\Discriminant\Discriminant\bin\Debug\Discriminant.exe.config
+C:\Users\angry\Desktop\Портфолио\4) Discriminant\Discriminant\Discriminant\bin\Debug\Discriminant.exe
+C:\Users\angry\Desktop\Портфолио\4) Discriminant\Discriminant\Discriminant\bin\Debug\Discriminant.pdb
+C:\Users\angry\Desktop\Портфолио\4) Discriminant\Discriminant\Discriminant\obj\Debug\Discriminant.csprojAssemblyReference.cache
+C:\Users\angry\Desktop\Портфолио\4) Discriminant\Discriminant\Discriminant\obj\Debug\Discriminant.csproj.CoreCompileInputs.cache
+C:\Users\angry\Desktop\Портфолио\4) Discriminant\Discriminant\Discriminant\obj\Debug\Discriminant.exe
+C:\Users\angry\Desktop\Портфолио\4) Discriminant\Discriminant\Discriminant\obj\Debug\Discriminant.pdb

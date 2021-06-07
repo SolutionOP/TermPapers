@@ -1,0 +1,7 @@
+C:\Users\angry\Desktop\Портфолио\9)Contribution\Contribution\Contribution\bin\Debug\Contribution.exe.config
+C:\Users\angry\Desktop\Портфолио\9)Contribution\Contribution\Contribution\bin\Debug\Contribution.exe
+C:\Users\angry\Desktop\Портфолио\9)Contribution\Contribution\Contribution\bin\Debug\Contribution.pdb
+C:\Users\angry\Desktop\Портфолио\9)Contribution\Contribution\Contribution\obj\Debug\Contribution.csprojAssemblyReference.cache
+C:\Users\angry\Desktop\Портфолио\9)Contribution\Contribution\Contribution\obj\Debug\Contribution.csproj.CoreCompileInputs.cache
+C:\Users\angry\Desktop\Портфолио\9)Contribution\Contribution\Contribution\obj\Debug\Contribution.exe
+C:\Users\angry\Desktop\Портфолио\9)Contribution\Contribution\Contribution\obj\Debug\Contribution.pdb
