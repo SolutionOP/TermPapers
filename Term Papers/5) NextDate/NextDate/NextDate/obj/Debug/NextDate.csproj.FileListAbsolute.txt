@@ -1,7 +1,0 @@
-C:\Users\angry\source\repos\NextDate\NextDate\bin\Debug\NextDate.exe.config
-C:\Users\angry\source\repos\NextDate\NextDate\bin\Debug\NextDate.exe
-C:\Users\angry\source\repos\NextDate\NextDate\bin\Debug\NextDate.pdb
-C:\Users\angry\source\repos\NextDate\NextDate\obj\Debug\NextDate.csprojAssemblyReference.cache
-C:\Users\angry\source\repos\NextDate\NextDate\obj\Debug\NextDate.csproj.CoreCompileInputs.cache
-C:\Users\angry\source\repos\NextDate\NextDate\obj\Debug\NextDate.exe
-C:\Users\angry\source\repos\NextDate\NextDate\obj\Debug\NextDate.pdb

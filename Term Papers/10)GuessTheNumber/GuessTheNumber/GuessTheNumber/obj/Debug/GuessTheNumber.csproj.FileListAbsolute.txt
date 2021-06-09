@@ -1,7 +1,0 @@
-C:\Users\angry\Desktop\Портфолио\10)GuessTheNumber\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
-C:\Users\angry\Desktop\Портфолио\10)GuessTheNumber\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
-C:\Users\angry\Desktop\Портфолио\10)GuessTheNumber\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
-C:\Users\angry\Desktop\Портфолио\10)GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csprojAssemblyReference.cache
-C:\Users\angry\Desktop\Портфолио\10)GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
-C:\Users\angry\Desktop\Портфолио\10)GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
-C:\Users\angry\Desktop\Портфолио\10)GuessTheNumber\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb

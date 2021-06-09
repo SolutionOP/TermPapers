@@ -1,7 +1,0 @@
-C:\Users\angry\source\repos\Triangle\Triangle\bin\Debug\Triangle.exe.config
-C:\Users\angry\source\repos\Triangle\Triangle\bin\Debug\Triangle.exe
-C:\Users\angry\source\repos\Triangle\Triangle\bin\Debug\Triangle.pdb
-C:\Users\angry\source\repos\Triangle\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
-C:\Users\angry\source\repos\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
-C:\Users\angry\source\repos\Triangle\Triangle\obj\Debug\Triangle.exe
-C:\Users\angry\source\repos\Triangle\Triangle\obj\Debug\Triangle.pdb

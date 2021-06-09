@@ -1,7 +1,0 @@
-C:\Users\angry\Desktop\Портфолио\Age\Age\Age\bin\Debug\Age.exe.config
-C:\Users\angry\Desktop\Портфолио\Age\Age\Age\bin\Debug\Age.exe
-C:\Users\angry\Desktop\Портфолио\Age\Age\Age\bin\Debug\Age.pdb
-C:\Users\angry\Desktop\Портфолио\Age\Age\Age\obj\Debug\Age.csprojAssemblyReference.cache
-C:\Users\angry\Desktop\Портфолио\Age\Age\Age\obj\Debug\Age.csproj.CoreCompileInputs.cache
-C:\Users\angry\Desktop\Портфолио\Age\Age\Age\obj\Debug\Age.exe
-C:\Users\angry\Desktop\Портфолио\Age\Age\Age\obj\Debug\Age.pdb

@@ -1,7 +1,0 @@
-C:\Users\angry\Desktop\Портфолио\7)Evklid\Evklid\Evklid\bin\Debug\Evklid.exe.config
-C:\Users\angry\Desktop\Портфолио\7)Evklid\Evklid\Evklid\bin\Debug\Evklid.exe
-C:\Users\angry\Desktop\Портфолио\7)Evklid\Evklid\Evklid\bin\Debug\Evklid.pdb
-C:\Users\angry\Desktop\Портфолио\7)Evklid\Evklid\Evklid\obj\Debug\Evklid.csprojAssemblyReference.cache
-C:\Users\angry\Desktop\Портфолио\7)Evklid\Evklid\Evklid\obj\Debug\Evklid.csproj.CoreCompileInputs.cache
-C:\Users\angry\Desktop\Портфолио\7)Evklid\Evklid\Evklid\obj\Debug\Evklid.exe
-C:\Users\angry\Desktop\Портфолио\7)Evklid\Evklid\Evklid\obj\Debug\Evklid.pdb
